@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/GameFont2.spritefont</SourceFile>
+  <SourceTime>2019-02-24T16:09:11+05:00</SourceTime>
+  <DestFile>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/bin/Windows/GameFont2.xnb</DestFile>
+  <DestTime>2019-11-29T05:52:49.1178142+05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T21:35:54+05:00</ImporterTime>
+  <Processor>LocalizedFontProcessor</Processor>
+  <ProcessorTime>2018-12-08T21:35:54+05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

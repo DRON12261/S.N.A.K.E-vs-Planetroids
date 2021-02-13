@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.N.A.K.E vs Planetroids", "S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids.csproj", "{97ADA107-A4DC-44E2-A005-3E098F21BB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97ADA107-A4DC-44E2-A005-3E098F21BB30}.Debug|x86.ActiveCfg = Debug|x86
+		{97ADA107-A4DC-44E2-A005-3E098F21BB30}.Debug|x86.Build.0 = Debug|x86
+		{97ADA107-A4DC-44E2-A005-3E098F21BB30}.Release|x86.ActiveCfg = Release|x86
+		{97ADA107-A4DC-44E2-A005-3E098F21BB30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70004369-3ADB-401E-8CF6-D20297E3A801}
+	EndGlobalSection
+EndGlobal

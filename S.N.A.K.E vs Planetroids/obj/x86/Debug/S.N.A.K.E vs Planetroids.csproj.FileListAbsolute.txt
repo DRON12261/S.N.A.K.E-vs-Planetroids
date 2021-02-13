@@ -1,0 +1,158 @@
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Body_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Head_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_PartsConnector_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Tale_32X32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\S.N.A.K.E vs Planetroids.exe
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\S.N.A.K.E vs Planetroids.pdb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csprojAssemblyReference.cache
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csproj.CoreCompileInputs.cache
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csproj.CopyComplete
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.exe
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.pdb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Crosshair_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Planetroid_1_64x64.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_BodyGun_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Bg_Space_100x100.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\HealthPack_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SegmentPack_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\background_700x394.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameFont2.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor1_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor2_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor3_32x32.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Planetroid_2_64x64.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\backgroundg1_100x100.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\laser_4x4.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameOver.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Explose.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\LaserShoot.xnb
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Soundtrack.wma
+C:\Files\Projects - Проекты\Visual Studio Projects\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Soundtrack.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\backgroundg1_100x100.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\background_700x394.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Bg_Space_100x100.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Crosshair_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Explose.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameFont2.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameOver.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\HealthPack_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\LaserShoot.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\laser_4x4.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor1_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor2_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor3_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Planetroid_1_64x64.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Planetroid_2_64x64.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SegmentPack_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_BodyGun_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Body_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Head_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_PartsConnector_32x32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Tale_32X32.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Soundtrack.wma
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Soundtrack.xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\S.N.A.K.E vs Planetroids.exe
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\S.N.A.K.E vs Planetroids.pdb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csprojAssemblyReference.cache
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csproj.CoreCompileInputs.cache
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csproj.CopyComplete
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.exe
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.pdb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeBody(Back).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeBody(Colored1).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeBody(Colored2).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeLaserGun(Colored1).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeLaserGun(Colored2).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeHead(Colored1).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeHead(Colored2).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeTail(Colored1).xnb
+C:\Users\andro\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeTail(Colored2).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\backgroundg1_100x100.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\background_700x394.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Bg_Space_100x100.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Crosshair_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Explose.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameFont.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameFont2.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\GameOver.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\HealthPack_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\LaserShoot.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\laser_4x4.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor1_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor2_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Meteor3_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Planetroid_1_64x64.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Planetroid_2_64x64.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SegmentPack_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeBody(Back).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeBody(Colored1).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeBody(Colored2).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeHead(Colored1).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeHead(Colored2).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeLaserGun(Colored1).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeLaserGun(Colored2).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeTail(Colored1).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\SnakeTail(Colored2).xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_BodyGun_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Body_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Head_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_PartsConnector_32x32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Snake_Tale_32X32.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Soundtrack.wma
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\Content\Soundtrack.xnb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\S.N.A.K.E vs Planetroids.exe
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\S.N.A.K.E vs Planetroids.pdb
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csprojAssemblyReference.cache
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.csproj.CopyComplete
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.exe
+D:\Новая папка (8)\source\repos\S.N.A.K.E vs Planetroids\S.N.A.K.E vs Planetroids\obj\x86\Debug\S.N.A.K.E vs Planetroids.pdb

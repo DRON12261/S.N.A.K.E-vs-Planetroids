@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Новая папка (8)/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/strashnye-zvuki-d-yavol-skiy-smeh.mp3</SourceFile>
+  <SourceTime>2019-02-24T17:09:13+06:00</SourceTime>
+  <DestFile>D:/Новая папка (8)/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/bin/Windows/Content/GameOver.xnb</DestFile>
+  <DestTime>2020-02-08T00:24:36.3291371+06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T22:35:54+06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T22:35:54+06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

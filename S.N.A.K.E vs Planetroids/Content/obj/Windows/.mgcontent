@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/background_700x394.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/backgroundg1_100x100.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Bg_Space_100x100.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Crosshair_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/GameFont.spritefont</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/GameFont2.spritefont</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/HealthPack_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/laser_4x4.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Meteor1_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Meteor2_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Meteor3_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/NoEsc - Lim-_0(Loop Version).mp3</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Planetroid_1_64x64.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Planetroid_2_64x64.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SegmentPack_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Snake_Body_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Snake_BodyGun_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Snake_Head_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Snake_PartsConnector_32x32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Snake_Tale_32X32.png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeBody(Back).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeBody(Colored1).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeBody(Colored2).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeHead(Colored1).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeHead(Colored2).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeLaserGun(Colored1).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeLaserGun(Colored2).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeTail(Colored1).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/SnakeTail(Colored2).png</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Sound_03155 (online-audio-converter.com).mp3</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/Sound_08140.mp3</File>
+    <File>C:/Users/andro/source/repos/S.N.A.K.E vs Planetroids/S.N.A.K.E vs Planetroids/Content/strashnye-zvuki-d-yavol-skiy-smeh.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Soundtrack.mp3</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>LaserShoot.mp3</File>
+    <File>Explose.mp3</File>
+    <File>GameOver.mp3</File>
+  </DestFiles>
+</SourceFileCollection>
